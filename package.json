@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^7.2.2-canary.3323467",
+    "firebase": "^10.9.0",
     "grpc": "^1.24.2",
     "node-gyp": "^6.0.1",
     "node-pre-gyp": "^0.14.0",
